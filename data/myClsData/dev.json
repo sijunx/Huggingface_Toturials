@@ -1,0 +1,600 @@
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"我抢了一个西边的单 系统 派了一个东边的单 中间相差十多公里"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"我抢了一个我跑的路线 系统 派反方向的 两单南北相差3公里"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"骑手的订单好几个要超时了 又派一个反向两公里多的取货位置订单"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"一个往东一个往西 完全是反方向"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":" 不顺路派单 总是 们往相反的方向派"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"派单不合理 左一个右一个来回 不顺路"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"派过来的单不顺路 也只能多绕点路   又是拒单过多 不派单了"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":" 派了三个订单 有一个订单跟 两个订单不顺路 导致配送超时"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"我手里有七个订单   系统又 派了一个反方向的 又转不  导致手里的订单超时"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"我要把前面几个快超时的订单送掉了  来配送 反向订单"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":" 订单是我取消的  系统派的单子取单不顺路 送单也不顺路 没法配送   手里订单全部超时"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"反方向派单 刚刚取餐完 就派反方向过来 "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":" 没 派单 肯定 超时 下班 时间段 拥堵 且又反向绕路 "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":" 有超时风险的单 再派一单在反方向取货的  "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"派单不顺路 取单 绕着圈的去 送单也是绕着圈的 我手上 一个订单 剩三分钟超时了 往北边去呢 就  还 派单 从东边去 往西边送"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"瞎派 我都有一单了    往反方向派  2公里 最后有一单超时七八分钟  解决 "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":" 平台是 傻的 我拒绝了一个反方向的不顺路单 过一会又派一张反方向单来 "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"最近 平台 派单 乱呢 东南西北的门派过来 平台 骑手顺路不顺路 您们能能派过来  平台 是 回事了  要 给骑手派单 "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"我发现 平台派的单都是反方向的 拒绝多了以后就不派单了 不拒绝又怕  "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"我就很纳闷了 我定位的地方单子不   稍微偏一点我也能接受  给反方向的 "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"我刚刚接了一个帮买单   系统 派了两个订单 都是反方向 我配送 "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"两个反方向 转都转不 "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"我手里面有三个单子 它是反方向派的 这叫这叫我 送呢 "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"我手上 两个单和这一个单根本不顺路 要重新绕过一大圈   山 是封住的 "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"我在配送途中 手里 两个订单 还没送过去 系统又派单 反方向"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":" 你是骑手 你拿了三个单子 往同一方向的走  到了这三个单子 方向了 突然 有一个单子变成了反方向"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"抢了一个回程的单 系统又 派一个反方向的单 两个相差十公里"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"我的常住地址是中医大方向 别总派反方向的单子"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"不顺路  绕弯单子 还压着时间 派 "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"派单太乱了 反方向派单 送达超时 能剔除吗"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":" 派顺路的远一点倒无所谓 直接派个反方向的谁不气"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"大清早没骑手能理解 一公里内取餐还能接受 完全不顺路的两公里 搞的都差点超时 单没跑几个 累的头昏眼花 "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":" 订单派单路线有 我才取消的  订单客户在西边 方向 我手上 三个订单往东边走 反方向派单"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"反方向派单 包括反方向送货 反方向取货 不考虑 时间的 "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"等你去取餐的  原来的位置又派一个单 又是反方向的  送 子 "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"我手里两个订单 取餐了 在配送途中我还 送 他系统就派单    反方向 你叫我 送 "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"不合理派单不顺路 "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"  派两单  两个地方  大反向 让我 接"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":" 顺路的 直接是反方向的"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"派单取餐反方向三公里"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"派单取餐的方向都是反方向"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"方向也不顺路"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"方向不顺路"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"不顺路也派  一个方向也派 我  跑"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"好吧  一个不合理的订单 不顺路也给派单 "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"你看看 又是个反向取餐"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":" 反向派单啊"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"反向派单 咋肥四"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":" 天天有反向派单的 "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"反向派单 "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"为啥反向派单"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"反向派单"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"反方向 转不 呀"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"完全两个反方向 "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"两个反方向啊"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"不顺路跨度太大了 派单不合理"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"系统也  我接了金林湾和前浦的订单   派反方向呢"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"没单子派单不合理不顺路 还 运费低"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"派单不合理派一个相反方向  送"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"今天系统派了反方向的订单 "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"看看我的常住地址再派单 别总派反方向的单子了"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"昨天 就不派中医大方向的单子了一派 反方向的"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"不顺路导致配送超时"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"现在  瞎派单 两个反方向"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"跟我说位置留错 跟我手上订单 反方向"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"反方向送肯定超时"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"是不顺路  派单少呢"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"派单不顺路 "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":" 的派单 是完全不顺路的   "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"派单不顺路吗"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"派单不顺路 派单不顺路"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"是派单不顺路是吗"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"派单 也是派的不顺路的"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"是派单不顺路吗"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"派单都是乱的 不顺路"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"反方向派单 10号位置 跟 订单方向向反的 跟14号位置相差了3 3公里"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"没去过得方向也派过来不顺路的也派单过来 "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"那根本就不顺路 你 看一下两个相反的方向"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"那单子 不顺路 方向 都是反的 "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"肯定超时 反方向太远了"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"反方向取餐"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"反方向派单明白吗"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":" 一直往反方向派单 "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"取餐反方向"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"取餐在送啊 反方向 你来弄啊 "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"反方向派单"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"反方向不说  取餐 远"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"派单反方向 这还用问吗 "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"送  反方向派单"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"我手上一单 反方向派单的"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"反方向派单"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"反方向取餐的"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"第二张完全 反方向送啊 我往东送  派个往西送的"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"还 把不顺路的单子派 "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"几单都有超时风险了  还要派一个反向订单过来 "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"一个方向 送 反方向派单无法配送"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":" 指派单不顺路导致配送超时"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"两个单子配送反向相反"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"昨天就有好几个 反方向订单了 "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"我先抢的 订单  系统又 派个反方向的  意思"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"是系统派单我跟本就没法送的单子啊 不顺路乱七八糟的的订单超时"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"系统派单有  派了两个反方向的单"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"这 反方向 相差6公里的订单也 派"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"直接给顾客改反向"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"又塞两个单来 还不顺路 你说 搞的 "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"我的背单量调的6单  系统 派了7单  取餐送餐 不顺路 导致我超时几单"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"系统又 派了一个反方向的单"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"有 派单还瞎派不顺路派啥"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"不顺路 两个方向的"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":" 今天不派中医大方向的单子了 一派 反方向的单子太恼火了"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"系统当时 拍的两个订单 完全是反方向的 "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"两个单子是反方向的"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"又 派两个反方向的单子 "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":" 超时  太不顺路了 相差5公里多 你说呢 "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"下雨的  派单不顺路"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":" 反方向派  k 字型派单 我今天的两个超时订单 例子"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"接了同城单又派 多外卖单   反方向取货  不超时"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"不顺路肯定拒单"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"  昨天和前天一共有两单超时 系统不顺路的单子 派  我多要超时了还拍单 "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"两个反方向真的没办法不拒绝 "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"指派 反方向订单 会超时 没办法了 取消订单了 会扣钱吗 "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"我前面那一单有一单5km  派一单 让我两公里反方向拿货 那我这一单5km不 七八公里啦 肯定超时吗 "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"反向的单子 挺多 这种就不给了 "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":" 反方向订单导致超时无法申诉         "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"你关键是派单不顺路"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"这派单 取餐反方向 时间不够啊"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":" 订单修改位置改个反方向的我 送"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"我昨天系统乱派单 不顺路 我取消了一个订单  申诉过 你能 反馈一下吗"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"一共接了两单 一单出歺慢 两单不顺路 一个在南一个在北 导致超时"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"天天派不顺路的单  还好意思说 拒单"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"不顺路拒绝就完了"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"派单不顺路的  是一直都有么"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"我这一手单反方向派单"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"我点刷新订单 系统自动 接了单 不顺路取消罚单二单了"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"系统 会把相差十一公里的单派   反方向"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"不合理不顺路的订单得拒"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"相当于我两个订单反方向3 7公里"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"取货和送货都不顺路"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"一个地方的单子不派给一  这不顺路的给派"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":" 我抢了两个 也不顺路"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"当时系统强行派 两个反方向订单 导致我无法配送 导致我订单超时"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":" 系统是 回事不顺路的单子派 "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"手上一下挂满不接说拒单 不顺路也派我"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"和我手里的订单是反方向"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":" 不顺路 一个单送 要相差三四公里"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"不顺路 相差5公里的 也派"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"系统总是派些不顺路 不合理的单 没办法  拒"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"关键是东西两个反方向的在派"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"派两个没人去的单子也不顺路"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"我前面派的单子跟顾客的位置是反方向的 耽搁了一会单子全超时了 "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":" 叫正常分配  你听明白我意思  我两单 在取完餐 在配送途中我还 送他派 单   一个方向 反方向这系统 派单的 我问你 "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"不顺路导致超时吗"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":" 派这种不顺路的单  拒绝又不派单"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"系统派单不合理 反方向派单咋送"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":" 理解的先生 订单不顺路 有单子也不敢抢的"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"我明白 有 拒单确实是不顺路    比我拒的多都一直派单啊 "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":" 问的是派单顺路不顺路的 吗"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"单子是反方向导致超时了吗"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"我抢了一个单是桐屿新盛家园的   系统又 派一个反方向的单 我接 一看 赶紧就下了线 再派一个单  我全部超时 "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"乱派单子不顺路 谁不拒单了"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"反方向派单无法拒单"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":" 胖子早点的单子不顺路派  "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"平台  是  派的反方向几公里取餐反方向单子 拒绝差就不派单子"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"这派单 派反方向的 搞的现在拒单拒多了"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"4000134486988175002 订单因不顺路 又是跨江配送 手上订单又快超时了 取消订单 烦请 帮忙处理一下  "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"刚取完餐  派单不顺路的过来"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"这是系统  我时间都不够了 还派个不顺路的单子"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"反方向派单 你平台人死了 "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":" 平台派单反方向"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"眼镜也能看到是反向单子啊"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"订单给了我两个反向的 一个在金葫芦16区 一个在北青公路 我超时一个北青公路的"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"剩10分钟送餐  还 派反方向几公里取餐的"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"我几把手里的单子都超时了 还 派反方向的"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"    让我把不顺路单订单发两个图片"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"派单不顺路导致超时的单子呢"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"系统派单不顺路"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"e 我遇到系统  派单 根本不顺路"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":" 反方向派单 要玩骑手 "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"反向有 坑人的吗"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"反方向派单  单快超时了"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":" 不顺路来回二十公里"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"我也不想取消呀 看着 单子超时了 反方向的单子"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"选择 有用吗 我 说是 系统导航不准吗 是 它派了一个反向1公里左右去取货的单子吗 "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"这平台 最近一直都在反方向派单"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"  我的订单 派了个反方向的"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":" 单子是反向派的  单子 报备"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"净派不顺路的单子 还 拒了吗 等着超时吗"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"反向取货"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":" 两个反方向的派单"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":" 这垃圾派单 反方向五公里还 派 我去找不到商家号码 手里 都超时了"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"系统乱派单 派反方向的订单"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"艹 下一天雨 转也转不  还反方向派"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"20分钟要超时 来三个不顺路的写字楼"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"派单子不顺路导致 的吗"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"取餐不顺路 送餐不顺路"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"不顺路是 取餐元吗  "}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"不顺路 取餐远"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":" 我手上8个单都是一个方向 就 反方向"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"完全不顺路导致超时送达"}
+{"label":"0","label_des":"取餐路径规划不合理","sentence":"  订单 当时跟 反应了是反方向"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"每次下单都打电话叫取消 明明店铺开着 我中午回来路过都看见开着 每次都说打烊不送 这种店开着  "}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"等 久告知我未营业 "}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"临近我的送餐点打烊"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"打电话关机 他是 打烊了"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"打烊了还继续开门 "}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":" 下单之前不说打烊"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":" 我看她根本没打烊"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"  我下的订单 骑手到店后说 商家未营业"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":" 取消了 原因是打烊"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"商家打烊了  还挂平台上  点餐了  还催我退单 我先打电话给骑手说退单  商家还急忙催我  态度恶劣    的失误"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"那就没说法了 不想接单就提前打烊 接了单不做是 回事"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"主 订的 还没打烊 等了将就一小时 打电话通知店铺关门了  店铺就打烊了"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"未营业 下单的 "}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":" 我看到打烊后 肯定要了解情况"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"他打烊了能 送也 通知 订单也不退款"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"那 在打烊前下了订单的  商家打烊 完成订单这种情况 平台也不提醒嘛"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"  家外卖都打烊了"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"打烊接单又不说 白等 久 退款也不 回应"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"打烊了 我应该页面都下 单了"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":" 我在 给 下的单 收拾打烊了 还 退单了"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"亲   我有个订单取消了  商家店里没人叫我取消了 叫我去预约明天叫骑手送  她的界面 预定明天的  今天的 现在我打电话给她 她说八点半打烊了就 预定明天的  我八点半去下单显示店家休息 没法下单 这种情况 下单预约明天的"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"我刚刚在饿了么点餐那家店明明有餐 买了  他说他卖完了 打烊了 就把餐给退了        是 他设的有 活动 有0丶01元 买       不想给人买 那 要设 的呢 "}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"没想到 看打烊了"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"未营业状态 现在才说 "}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"电话打不通  打烊"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"打电话商家说未营业  未营业 还要接了单又要取消啊"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"商家反馈 未营业"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"太垃圾了 等了1个小时 反馈未营业"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"那我有 办法呢  希望 提醒一下商家 打烊记得关自动接单  等了半天骑手说商家关门的 这都在这家第二次了"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"您看 他打烊了还接单 这就 违规了吧 "}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"太不负责了 关键 点都 都打烊了  "}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"还中途打烊"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"大白天打烊吗"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"昨天晚上点的  它  商品 今天中午他临时告诉我  商品  商店要打烊了  直接在后台把我的订单取消了"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"是卖家接单后因故无法制作 却要求买家关闭订单  未营业导致  关闭订单 那这是平台要考虑 解决这种 突发情况的 "}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":" 店铺都打烊了 我买不到了 需要商家赔偿损失"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"  订单取消了 商户没到打烊时间"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"报备未营业 "}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"打烊不告知客户 客户出于时间原因选择另点"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":" 于当日上午十点半左右点单 11点多查看订单时发现店铺已打烊   电话给店铺 店铺无人接听   到饭点 出于 和舍友需求考虑 选择了退单 另点 店铺 现在店铺已已送出为由拒绝退款  其打烊 提前告知客户 客户打电话联系也不接 "}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"我又被砍单了  这次这家店直接打烊了"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"店主联系我说  家 打烊了做  让我选择退单 说 忘了关店  骑手都 到了 我 也等了一段时间了  我的通用红包 兑换成 家的专属红包 现在退款了  我觉得 我有必要要求赔偿我等待时间上的损失  把我的通用红包换回来 "}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"你打烊了别在平台开放啊"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"商家未营业 我是 付款的呢 不营业也 订外卖 "}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":" 的本来都 吃完睡觉了 我  点 他打烊了   "}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":" 接单打烊为由"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":" 货也不及时打电 一声 看 没货直接不联络买家就打烊了 太过分了 我还在等 "}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"我下单 它打烊了 我打电 那就取消  后面叫别家了"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"刚下单之后他就打烊了"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"双亮面馆这家店 连续两天下单 打烊下线"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"都是接单后过一段时间打烊"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"下次打烊了"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":" 零 一个消费者在店铺 开店的情况下 告知消费者已打烊 "}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"我的会员兑换券今天过期  那家店在我下单之后告诉我   打烊了这 呢"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"我买的 没打烊   我下单10几分钟了   退单了"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"这种情况 商家超时 打烊才发现我订单 电话要我取消 还关闭订单说我信息有误  只罚15    "}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":" 他快打烊了 就 啊 要取消早点取消呀"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"骑手说未营业"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"他打烊  我正常下班啊"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"五点半 下单的显示是6点12左右送达 一直等没  看到商家打烊了 他也 打电话过来通知一下"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"我买东西 未打烊下单  我下完 退单了"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":" 打烊 明后天"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":" 核实下  太忙忘记了  打烊了 那也简单和客户沟通下取消  客户主动联系的 也 告知 配送 最后不声不响取消 好像不太合适"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":" 平台上 下单    重新炸一份炸鸡送过来呢 又 到它结束营业打烊的时间 我 订单都下下去了 他就应该履行义务  把炸鸡炸完送过来呀 "}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"他说 打烊了  做了"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"我都下单14分钟了才 打电 打烊了"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"这次我下完订单突然就打烊了"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"核实了  说能接单 我现实打烊"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"我刚刚 看店铺都还没打烊"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"他嫌我占便宜了 说打烊"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"这是他的电话告知我去接孩子下班了 店铺打烊了 退款 "}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"商家明确告知店铺打烊了  退款到 我没吃饭 我吃完饭一看手机他  退款并吧餐做好了"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"一个烧烤   早打烊"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"第一单下完就打烊"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"两次 一次售完 二次就说打烊了"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"我下单 他不接单   的理由是打烊"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"我看所 蛋糕店铺都 打烊的状态"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":" 也 人及时通知我 商家未营业"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"无法营业就标上打烊    能营业就应该正常营业"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"半个小时以后店家线上店铺打烊了 跟我说送  让我换一家店"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"【饿了么】您 饿了么在本店 泥炉牛铺 宝龙店  下的订单 2164193053303722061   本店已打烊 已被 取消  谅解 停业了"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"从没见过 的  你拒绝你总的用个好点的理由吧 来一个打烊"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"我点餐的 明明是开店 我支付后店铺又打烊了 这是 回事的"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"我点完餐 我就退 了 我不 一直在 平台上  等我12 00再看  他家就 打烊了  显示下午4点之后再配送"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":" 就打烊呀  在营业呀"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"到预计送达的  再告诉我打烊了  还能 操作么"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"也没人告诉我这店铺未营业"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"骑手宝贝说商家未营业"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"取消了 连处理都不处理 直接打烊"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":" 这跟打烊有啥区别么 "}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"第一 骑手反馈店家未营业时间过久"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"第二 店家未营业 平台未及时关闭订单"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"你确定商铺未营业 "}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"非要让我 两小时后   告知我商家未营业    骑士 告知我  商家 告知我  平台 告知我"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"这是 意吗 让你在家饿两个小时   告诉你商家未营业  你能 "}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"我就想知未营业 能接单     骑士到店后发现未营业 与我联系一下告知我     告知平台餐厅未营业  让平台膏知我也     在我等待两小时后我去投诉了   有人告知我未营业   我也不来投诉  是 我要等一夜 外卖"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"商家都未营业 十五分钟内处理我得取消订单 "}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"那他明明店铺休息却不在外卖平台标注打烊  有人下单了让 退款却又不立即退款"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"没一 开门的 全打烊了"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"我一直在线等 到现在还没见店里打烊"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"昨天太晚了说打烊了 今天还早又不接单"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"上午十点打烊搞笑呢"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"  今天中午点了一家饭 几十分钟了 没供餐 也不说一声 直接打烊了        提示骑手一直在取餐 取不 "}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"  退款说明说了商家打烊延伸到次日开店15分钟之后才算送达"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"未营业我还能付款 "}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"我下单 十几分钟骑手到店后打电话 说打烊了 我看订单显示 送达  让我 退款 我看界面还显示营业 我的意思浪费我十几分钟 不想接单为啥不及时提醒还让我等"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"我希望商家打烊能及时显示  浪费消费者的时间"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"我是没打烊之前下的单"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"我肚子饿了 我希望还在 平台上做外卖的店铺  离打烊时间 半个小时以上 我就希望能吃点东西 补充点能量"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"我在打烊之前就点外卖了"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"这店说打烊就打烊真可恶 投诉 不送早点说啊"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"他说打烊了我还以为送的 都不早说"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"你 打烊了 我就点     能点  你也 及时在一分钟以内回电话  说打烊了无法送餐  "}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"嗯那 了 刚刚看到打烊也是气坏了"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"我拍的 店还开着 拍了等了十几分钟了 告诉我打烊了 把我订单关了"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"知道打烊不知道回信息 "}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"这未营业也不通知一声"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"未和我联系就打烊让我取消"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"一句未营业就 了吗"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"都快饿死了 一打开发现是打烊的"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"联系不上店家 骑手说 打烊了"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"快一个小时了 先是配送员就几十米了 才通知商家未营业"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"接了单就不想送就说啊 直接打打电话 说商家 打烊了 后面叫私自转钱 了 后面商家说她 餐做好了 骑手 去拿   她 点送达了 "}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"这是大中午你没理由打烊吧"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"没必要过个十多二十分钟告诉我不卖了打烊了"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"真的服了 还能 的 打烊接 单 接了单没做 骑手点 已拿到 没送又点已到达   "}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"第一次下单的  使用无门槛红包  退单不做 假装 店铺打烊 重新下单后比第一次买的东西多了两个蛋挞就接单了"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"我在他打烊前正常下的单  不一会儿他 打电话 说 要点的波霸奶茶 了   他说的仅  换 我 喝  他说 一种牛奶做的波霸奶茶  要加钱 我不接受 这是商家的责任   货了 应该下架 他 没下架 自行 换   补钱做 这是我的责任吗 话还没讲完 就把电话挂了  把订单自说自话退单了 态度 恶劣"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"打烊总得 打个电 呗"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"它还打烊吗"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"看到了吗 店铺打烊取消订单  店铺没过两分钟又开店了"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"打烊了的店不 点餐的啊  我下单都十五分钟了才说不营业"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"这商家都关门了 也不点打烊 下单成功了 骑手都去了发现 店关门了"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"导致我别家蛋糕全部订  都打烊了"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"第二次以打烊 yang 取消我的单子"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"商家没打烊啊"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"我正常下单 他打烊了他也不电话联系我就直接取消了"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"未营业不提前跟我说"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"我   弄 我在商家没 门前下单的 商家就有义务 做餐  说商家未营业  不提前打电话 说了"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"我不接受 的处理  我现在觉得 在耍我 我大晚上的点外卖    整这一出  我点外卖的 商家正在营业中  我下单 商家是有义务 做的  像 说的商家未营业  那我下单之前  他应该跟我说呀商家  都没跟我说就让我等了半个小时"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"提醒 打烊了要记得关平台 下次又有 顾客点 要取消"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":" 订单我建议商家一直不接电话   接了我的单后就打烊了 我联系骑手 骑手表示商家爆单了骑手也投诉商家了  说商家根本做不出东西  二三十个骑手在外面等着   建议我取消 选择 家  "}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"我就想不通 这骑手说商家未营业  他 选择取餐 还能点送达"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"好多外卖都打烊了"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"他店铺明明显示两点半打烊"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":" 平台管理不严 商家打烊 线上平台还在开放 购物体验极差"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"1 商家页面 说明快打烊  正常下单  2 下单后显示九点十八送到    我 此 才买的加量包  我本来这几天iu点外卖少了 那我白买了加量包  亏吗"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"未营业我 点的 一点提前 我还得 看一下开门着 吗 "}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"打个电 商家未营业就取消了我的订单"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"唉 耽误我用 耽误时间 未营业 在网上挂 "}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"凌晨两点多才显示打烊"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"商家还未打烊 接了我的单在  通知的情况下单方面退款"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"他 不现实打烊"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"一点零几分才打烊的"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"打烊是在我第一次叫完外卖  三十分钟才打烊的"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":" 就 接单 接单不做联系我说打烊了  理解 这是到时间啥也不说 不知道是啥意思"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"打烊了平台还不关闭 一直处于派单状态"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"又不注明一下   下单 就认认真真  就点打烊"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"  我点的饭 商家在我点完之后将店铺打烊 餐品下架 还不提前告知我让我等了很久"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"实在太过份了 接了单 打烊   骑手跟我说才知道 商家电话也打不通 本来就肚子饿 害我等了 久  后面想点 吃的都打烊了 实在太过份 浪费我时间 您们平台 给个严惩"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"兵之王的订单 我正常下单支付的 商家  事先说明的情况下 就以商家打烊了为由  取消了订单 "}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":" 也要考虑到 就说 要取消订单之前要告知用户  商家打烊了  是无法出餐了 需要的用户取消征得 了解之后  再进行操作 而 我先把订单给用户取消了 再给用户说 "}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":" 打烊下架了商品 又重新开启店铺"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":" 能 子啊    不上班 也不设置打烊 退款也 意 耽误客户时间"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"昨天有个订单 超时 商家打烊我就申请了退款也 投诉 扣了我包装费"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"商家在 打烊的情况下接单 导致我无法 就餐"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"这商户给 平台留的电话也打不通 没打烊就打不通 餐还没送 就打烊了 那现在  转嫁 了 我还要等一天 退款吗"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"说是巧玲炸鸡的  今天下雨提前打烊了 我让申请退款去买别家的"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"申请退单 假装看不见 店铺直接打烊了"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"我一要投诉商家不跟顾客联系打烊"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":" 我6 30一看店打烊了 商品也没送"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":" 店家要打烊 不提前关闭外卖  打电话提醒我退单"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"商家打烊  短信提醒 也 电话通知 联系商家也是联系不到"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"  打烊了 同意我的申请"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"手机座机打不通显示店面打烊"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"下单的 商家在线 晚点的 就打烊了 打电话不回 发消息也不回"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"送不到就显示打烊这不还赖着不退钱这是想抢劫吗"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":" 家打烊了 我着急买饭"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"他 打烊了 为啥不标上呢"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"聊天对话框也没说商家未营业啊"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"又是跟上次出现同样的  商家明明打烊了"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":" 来个短信告诉我打烊了 "}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"冻的手都得疼在外面等外卖  告诉打烊了 "}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"米加果儿这家 点完单很久跟我说打烊了 让我取消"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"那他是正在做  打烊了关门了 "}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"好好复制粘贴话术搪塞 还打烊了 你现在找一家打烊的店铺  下一个订单"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"下了单一个小时等着 说打烊了  一 说明明 六点半下的单快七点半 取消了"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"我当时6点多点也 打烊"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":" 标注个打烊了呀  的"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"开 玩笑呢 未营业接了我的单子 "}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"打烊 随意取消订单 "}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"没了他 打烊啊 我22 30多下单的 他刚 打电  "}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"还 解决 要点的店 打烊了 "}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"点的 没打烊 点完十分钟就打烊了 我怕他没做 没做 我就 了"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"  接单了 不配送 突然关门打烊 打烊了起码要通知顾客一声 让顾客 一家买 害得我等 久我还打电话骂骑手  我找骑手告诉我 我现在在 还在等"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"店铺 打烊  让骑手联系我说关门了 让我退货 是 用了优惠券不想发货吗 "}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"打烊了连续好几天都能看到在开店还能下单"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"关键是你不开门 显示未营业 这完全愚弄客户 给 造成金钱无法弥补损失"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"刚刚下了一个订单 骑手接了订 超时都没去商家 拿餐  后面 打电话冒充商家让我取消订单 说是 打烊了忘了下架饿了么"}
+{"label":"1","label_des":"门店未营业已打烊仍接单","sentence":"我想知道没打烊接单了凭 取消"}
+{"label":"2","label_des":"其他","sentence":"下单后两分钟就申请退款了  "}
+{"label":"2","label_des":"其他","sentence":"刚刚我点了麦当劳外卖  系统导航错误导致外卖员配送地址错误  我现在要求饿了么系统 赔偿"}
+{"label":"2","label_des":"其他","sentence":"你能帮助  骑车吗 风里来雨里去送歺"}
+{"label":"2","label_des":"其他","sentence":"到现在你也不核实 骑手 不送了吗"}
+{"label":"2","label_des":"其他","sentence":" 这一单  基础配送费用 快送费用 给"}
+{"label":"2","label_des":"其他","sentence":"用户原因  无意义评价 表面骑手无法联系用户导致骑手取消配送"}
+{"label":"2","label_des":"其他","sentence":"我手机显示 到出餐时间了 他非要再等9分钟"}
+{"label":"2","label_des":"其他","sentence":"那明天 不 接单 "}
+{"label":"2","label_des":"其他","sentence":"行吧 拖了我二十多分钟本来吃饱了就要睡觉了"}
+{"label":"2","label_des":"其他","sentence":"   我昨天的3号订单  当时我 送的   联系 取消配送"}
+{"label":"2","label_des":"其他","sentence":"让你 个微信就 难 "}
+{"label":"2","label_des":"其他","sentence":"问一下 我送我餐 忘记点送达了"}
+{"label":"2","label_des":"其他","sentence":"点的订单里饼加串  点的bt烤翅送的蜜汁的 "}
+{"label":"2","label_des":"其他","sentence":"食品安全法第148条款"}
+{"label":"2","label_des":"其他","sentence":" 一个小小的   您们给整了一个多小时 "}
+{"label":"2","label_des":"其他","sentence":"服务就  "}
+{"label":"2","label_des":"其他","sentence":"垃圾系统也是拿来跑 派单啦 他也不跑啊 派也不送了 "}
+{"label":"2","label_des":"其他","sentence":" 算 骑手身上"}
+{"label":"2","label_des":"其他","sentence":"是  系统错位了 "}
+{"label":"2","label_des":"其他","sentence":" 能 快点儿"}
+{"label":"2","label_des":"其他","sentence":"10 8日的6号订单和11号订单吗老板"}
+{"label":"2","label_des":"其他","sentence":"换了绑定手机号码 重新登录  了"}
+{"label":"2","label_des":"其他","sentence":"我等了足足两个小时"}
+{"label":"2","label_des":"其他","sentence":"  被忽视就能解决的"}
+{"label":"2","label_des":"其他","sentence":" 我打扰到你工作了 "}
+{"label":"2","label_des":"其他","sentence":"顾客说她的餐 了 "}
+{"label":"2","label_des":"其他","sentence":"   系统 会有一个延迟"}
+{"label":"2","label_des":"其他","sentence":"接了单不送 商家联系不上 我也联系不上骑手"}
+{"label":"2","label_des":"其他","sentence":"恶劣天气运单导致超时"}
+{"label":"2","label_des":"其他","sentence":"让我失望了 你确实看不懂人话是不 草  大  币"}
+{"label":"2","label_des":"其他","sentence":"原先送快递的时间就听送外卖的人说想炸总部关键地址是隐藏的"}
+{"label":"2","label_des":"其他","sentence":"就 发消息说罚钱 没说那一单"}
+{"label":"2","label_des":"其他","sentence":" 饿了么  对待客人的 "}
+{"label":"2","label_des":"其他","sentence":"骑手虚假报备异常  "}
+{"label":"2","label_des":"其他","sentence":"行吧 我在尝试着联系吧"}
+{"label":"2","label_des":"其他","sentence":" 支付宝你让我理赔的钱收到 去"}
+{"label":"2","label_des":"其他","sentence":"商家送错菜品送少菜品 接电话态度差 不给退款 "}
+{"label":"2","label_des":"其他","sentence":"  麻烦你 看一下 有一个取消订单 申诉  "}
+{"label":"2","label_des":"其他","sentence":"我要投诉2518号 "}
+{"label":"2","label_des":"其他","sentence":"有 派的单子都是人类完 的"}
+{"label":"2","label_des":"其他","sentence":"商家 致电了 他说 送  我需要一个解释 我要投诉"}
+{"label":"2","label_des":"其他","sentence":"无责任取消 补偿吗 "}
+{"label":"2","label_des":"其他","sentence":"顾客投诉 也要调查呀"}
+{"label":"2","label_des":"其他","sentence":"去了也就超时几秒 你也 查的到啊"}
+{"label":"2","label_des":"其他","sentence":"你联系一下他真实号码"}
+{"label":"2","label_des":"其他","sentence":"钱 没到帐啊"}
+{"label":"2","label_des":"其他","sentence":" 我的外卖还没人接单是 意思"}
+{"label":"2","label_des":"其他","sentence":" 提供一下截图吗 "}
+{"label":"2","label_des":"其他","sentence":"用户都 操作"}
+{"label":"2","label_des":"其他","sentence":"他刚 告诉我 我刚 打开看的  规则显示换号码之后就 新人奖励了"}
+{"label":"2","label_des":"其他","sentence":"执行了 记录了情况 我看也很难拿回我的钱了"}
+{"label":"2","label_des":"其他","sentence":"关键是地址隐藏了问 也不告诉我"}
+{"label":"2","label_des":"其他","sentence":"拜拜 早点休息哦"}
+{"label":"2","label_des":"其他","sentence":"南京雨花台 的"}
+{"label":"2","label_des":"其他","sentence":"骑手的餐一直没送过来 商家打电话来说骑手的餐还在店里  拿  现在骑手一直不接电话 也不点送达 这单就 挂着  弄"}
+{"label":"2","label_des":"其他","sentence":"【超级吃货卡 吃货卡】相关 "}
+{"label":"2","label_des":"其他","sentence":"好的   才有  我明天限制接单了 "}
+{"label":"2","label_des":"其他","sentence":"联系不上商家 骑士  "}
+{"label":"2","label_des":"其他","sentence":"不说清楚 我明天就去华莱士的店里"}
+{"label":"2","label_des":"其他","sentence":"那我要   我 还要叫外卖  我也不知道他送的地方在 "}
+{"label":"2","label_des":"其他","sentence":" 是有平台规定的呢"}
+{"label":"2","label_des":"其他","sentence":"磨磨唧唧的 一点十三送到 一点十分了还没取货"}
+{"label":"2","label_des":"其他","sentence":"你 回答  你就告诉我 你不知道"}
+{"label":"2","label_des":"其他","sentence":" 在使用的 就 办法让我使用了 说不在范围内的"}
+{"label":"2","label_des":"其他","sentence":"解释一下  索赔"}
+{"label":"2","label_des":"其他","sentence":"8号有两单你 查一下"}
+{"label":"2","label_des":"其他","sentence":"你处理一下 我 不知道在 取消"}
+{"label":"2","label_des":"其他","sentence":"闯了几个红灯是 情况  知道吗"}
+{"label":"2","label_des":"其他","sentence":"邀请记录只显示正在进行 "}
+{"label":"2","label_des":"其他","sentence":" 超时被顾客取消"}
+{"label":"2","label_des":"其他","sentence":"饿了 个垃圾 派单乱派 坑死人"}
+{"label":"2","label_des":"其他","sentence":"杀猪粉的投诉"}
+{"label":"2","label_des":"其他","sentence":"评价拦截后 用户是看不到的哦"}
+{"label":"2","label_des":"其他","sentence":"那我 超时二十多分钟        "}
+{"label":"2","label_des":"其他","sentence":"那 骑手呢"}
+{"label":"2","label_des":"其他","sentence":" 叫我 去拿 "}
+{"label":"2","label_des":"其他","sentence":" 单超时30分钟 40多分钟"}
+{"label":"2","label_des":"其他","sentence":"小区外卖不让进 打电话不接"}
+{"label":"2","label_des":"其他","sentence":"明天我问一下 军团长"}
+{"label":"2","label_des":"其他","sentence":" 顾客睡觉了 手机静音了 "}
+{"label":"2","label_des":"其他","sentence":"顾客看到的价格是 的呀"}
+{"label":"2","label_des":"其他","sentence":"  客人  申请退款了吗 我给拒绝了 完了您们 不  介入了吗"}
+{"label":"2","label_des":"其他","sentence":"那我到店点了之后我又要回来到顾客 来点  "}
+{"label":"2","label_des":"其他","sentence":"上一单超时了我还没找麻烦 这单又要超时了"}
+{"label":"2","label_des":"其他","sentence":" 商家还联系不上骑手"}
+{"label":"2","label_des":"其他","sentence":"是 我这段时间得去美团点点"}
+{"label":"2","label_des":"其他","sentence":"就这一个 客户不接电话客户 退了 "}
+{"label":"2","label_des":"其他","sentence":"我就觉得很奇怪  送错地方第一时间不应该是 重新回来 "}
+{"label":"2","label_des":"其他","sentence":"点击 简介里面是 之后 是包含了大润发的呀"}
+{"label":"2","label_des":"其他","sentence":"快送奖励规定时间内"}
+{"label":"2","label_des":"其他","sentence":"那你联系客人申请 介入"}
+{"label":"2","label_des":"其他","sentence":" 电话最少会接有 能第一时间处理"}
+{"label":"2","label_des":"其他","sentence":" 跟进的 餐损 的"}
+{"label":"2","label_des":"其他","sentence":" 送达餐 还点了送餐已到达 等了一个多小时"}
+{"label":"2","label_des":"其他","sentence":"2号单餐送丢了 骑手送丢了  没收到"}
+{"label":"2","label_des":"其他","sentence":"这都多久了 我要的那是现切的水果"}
+{"label":"2","label_des":"其他","sentence":"赶紧巴这事 解决了"}
+{"label":"2","label_des":"其他","sentence":" 不让加微信 我天天来找你"}
+{"label":"2","label_des":"其他","sentence":"昨天跟 一个在线 也说的很清楚  她说我应该送到之后先跟客户电话沟通 我就不明白 我送餐送到指定地点 当面和客户沟   还要电话联系  过后客户说拒收 他当时 不说拒收 说叫我放到桌子上  客户 任性  要我买单 "}
+{"label":"2","label_des":"其他","sentence":"超时了20分钟 我看骑手都 取上货品"}
+{"label":"2","label_des":"其他","sentence":"满20减15的 红包"}
+{"label":"2","label_des":"其他","sentence":"遇到你 的  我这辈倒霉"}
+{"label":"2","label_des":"其他","sentence":"我感觉小鸟想把人逼着去跑美团 我刚美团来跑小鸟的"}
+{"label":"2","label_des":"其他","sentence":" 骑手虚假到店 久没人关吗"}
+{"label":"2","label_des":"其他","sentence":"打一炮就 消消气了 "}
+{"label":"2","label_des":"其他","sentence":"发到13362437281  账号上"}
+{"label":"2","label_des":"其他","sentence":" 昨天的订单也是 等了 久还没骑手接单"}
+{"label":"2","label_des":"其他","sentence":"我申诉没  白天看到有恶劣天气超时十分钟以下免罚款"}
+{"label":"2","label_des":"其他","sentence":"我现在要睡觉了 24小时  我就打电话投诉了"}
+{"label":"2","label_des":"其他","sentence":"大半夜的我等 久 餐早就显示已送达"}
+{"label":"2","label_des":"其他","sentence":"我就一点要求 改补偿的红包我要   骑手超时了要扣钱 但 知道是我   商家 非要我给他发消息他才增加配送费  到现在还没人接单     半夜 没人愿意接便宜的 还要 半夜营业呢  要营业那  把配送费提高一点呢  没人愿意送"}
+{"label":"2","label_des":"其他","sentence":"他硬要把时间压到最后 "}
+{"label":"2","label_des":"其他","sentence":" 3个超时单是商家出餐慢导致超时的 麻烦 也一起剔除一下"}
+{"label":"2","label_des":"其他","sentence":" 餐损 商家负责"}
+{"label":"2","label_des":"其他","sentence":"我1 06才拿到二十多分钟  有 准时宝吗 超了二十多分钟"}
+{"label":"2","label_des":"其他","sentence":"我今天邀请了一位新人他更换的号码 "}
+{"label":"2","label_des":"其他","sentence":"10 16号晚高峰时间系统来了12单"}
+{"label":"2","label_des":"其他","sentence":"这三个都是给骑手打电话"}
+{"label":"2","label_des":"其他","sentence":"平常 高峰 和接放学孩子  会比较通畅点"}
+{"label":"2","label_des":"其他","sentence":"气的我心脏疼 做不   找原因 35分钟配送时间 20多分钟做不  骂人 告诉不用送了 说他取消 又不取消"}
+{"label":"2","label_des":"其他","sentence":"我 对接到经理 了"}
+{"label":"2","label_des":"其他","sentence":"两个电话号码打过去都没人接"}
+{"label":"2","label_des":"其他","sentence":"关键是 等不到早上"}
+{"label":"2","label_des":"其他","sentence":"不客气     帮助您的么 "}
+{"label":"2","label_des":"其他","sentence":"我的订单超时太久 我 取消订单"}
+{"label":"2","label_des":"其他","sentence":"那我现在 订单 解决"}
+{"label":"2","label_des":"其他","sentence":" 在使用的 就不让我用了"}
+{"label":"2","label_des":"其他","sentence":"看看明天有 消息吧"}
+{"label":"2","label_des":"其他","sentence":"不回答我我这还准备截图 发网站找记者呢"}
+{"label":"2","label_des":"其他","sentence":"本来系统提示是19 38到  20 09"}
+{"label":"2","label_des":"其他","sentence":"配送成功 03 51 32 2021 10 16"}
+{"label":"2","label_des":"其他","sentence":"能  联系顾客"}
+{"label":"2","label_des":"其他","sentence":"  给的红包啊"}
+{"label":"2","label_des":"其他","sentence":"符合app限制条件  gt 上报 rarr 修改位置输入顾客更改后的新文字地址 并将顾客定位位置拖动到正确位置"}
+{"label":"2","label_des":"其他","sentence":"华莱士工作人员 态度有 "}
+{"label":"2","label_des":"其他","sentence":"想等把 单送完再回来报备  道客人就取消了"}
+{"label":"2","label_des":"其他","sentence":" 上一个 听不懂人话我要投诉它"}
+{"label":"2","label_des":"其他","sentence":"骑手是把餐拿走了  拿回来的哦"}
+{"label":"2","label_des":"其他","sentence":"发短信   我又回 去 让 打电话来沟通"}
+{"label":"2","label_des":"其他","sentence":"我  还显示等待接单"}
+{"label":"2","label_des":"其他","sentence":"  晚了"}
+{"label":"2","label_des":"其他","sentence":" 罚单我给你截的图是啥 "}
+{"label":"2","label_des":"其他","sentence":"你把评价短信推过来 我 评价一下"}
+{"label":"2","label_des":"其他","sentence":"你处理一下吧 骑手把我美团的东西拿给客人了客人 "}
+{"label":"2","label_des":"其他","sentence":"顾客反应价格有 "}
+{"label":"2","label_des":"其他","sentence":"差评是 申诉的哦"}
+{"label":"2","label_des":"其他","sentence":"嗯嗯辛苦再关注一下的老板"}
+{"label":"2","label_des":"其他","sentence":"解决  别拖延时间 还7天 好意思讲"}
+{"label":"2","label_des":"其他","sentence":"今天 骑手 送错 家的餐一回了 现在又出现 情况"}
+{"label":"2","label_des":"其他","sentence":"平台真 恶心"}
+{"label":"2","label_des":"其他","sentence":"我 说 家生蚝小 商家说我没吃过乳山生蚝   的"}
+{"label":"2","label_des":"其他","sentence":"  导致订单取消  申诉索赔哦"}
+{"label":"2","label_des":"其他","sentence":"今晚过后都不知道能 再遇见你"}
+{"label":"2","label_des":"其他","sentence":"会延迟 久吗 吓我一跳"}
+{"label":"2","label_des":"其他","sentence":"配送人手不足 无法提供配送"}
+{"label":"2","label_des":"其他","sentence":" 事实    要打电话骚扰我"}
+{"label":"2","label_des":"其他","sentence":"那我现在 订单 "}
+{"label":"2","label_des":"其他","sentence":"我 不影响顾客体验 车子扔一边骑自行车送的"}
+{"label":"2","label_des":"其他","sentence":"客人那 是有事情处理才联系不上的"}
+{"label":"2","label_des":"其他","sentence":"下爆雨一手单 我 先送 单"}
+{"label":"2","label_des":"其他","sentence":"让 联系一下骑手 lsquo  rsquo "}
+{"label":"2","label_des":"其他","sentence":"打了多久的电话"}
+{"label":"2","label_des":"其他","sentence":"  今天的1号订单顾客说吃到了虫子  顾客发的图片与 做的餐产品不一致"}
+{"label":"2","label_des":"其他","sentence":"顾客新的地址是大门口  到了我也打 顾客电话  核对了订单姓名和手机尾号"}
+{"label":"2","label_des":"其他","sentence":"你 了 解呀"}
+{"label":"2","label_des":"其他","sentence":" 更换号码是 拿不到奖励 "}
+{"label":"2","label_des":"其他","sentence":"出现 次 的情况了 "}
+{"label":"2","label_des":"其他","sentence":"都不知道这是 鬼 系统"}
+{"label":"2","label_des":"其他","sentence":"跟你无法沟通｀"}
+{"label":"2","label_des":"其他","sentence":"搬一天家里都没吃饭  三 到现在都饿这肚子"}
+{"label":"2","label_des":"其他","sentence":"我邀请  就显示了对方 扫码提醒使用红包"}
+{"label":"2","label_des":"其他","sentence":"后面两单超时了 处理"}
+{"label":"2","label_des":"其他","sentence":"昨天一个 很善解人意"}
+{"label":"2","label_des":"其他","sentence":"刚刚相关内容放在上面了"}
+{"label":"2","label_des":"其他","sentence":" 1 39还联系不上是 无责取消的"}
+{"label":"2","label_des":"其他","sentence":"   服务的"}
+{"label":"2","label_des":"其他","sentence":"上次商家说是好的 送来全漏袋子里"}
+{"label":"2","label_des":"其他","sentence":" 专员是 给您审核后处理的"}
+{"label":"2","label_des":"其他","sentence":"忘记点了 我 拿仓了 到了顾客 了 "}
+{"label":"2","label_des":"其他","sentence":"慢点我又被拒绝    又来守门 "}
+{"label":"2","label_des":"其他","sentence":" 商责取消率的计算是 一周的情况的呢 "}
+{"label":"2","label_des":"其他","sentence":"能  看看超时 分钟"}
+{"label":"2","label_des":"其他","sentence":" 退掉吧 "}
+{"label":"2","label_des":"其他","sentence":"就 吧 我希望   专员的电话 "}
+{"label":"2","label_des":"其他","sentence":"骑手 送错地方 还让我 去拿 我 意 让他 送回来 他却说要等二十分钟 后面送过来面都坨了 汤都被吸干了"}
+{"label":"2","label_des":"其他","sentence":"美女姐姐那能  处理一下"}
+{"label":"2","label_des":"其他","sentence":"好的好的 等一下你推一下评价短信 我给你评价一下"}
+{"label":"2","label_des":"其他","sentence":"显示配送终止"}
+{"label":"2","label_des":"其他","sentence":"我今天早上有个单子超时了 申诉没  今天看到有下雨天免处罚 不知道还能 免罚了"}
+{"label":"2","label_des":"其他","sentence":"我 又看不到"}
+{"label":"2","label_des":"其他","sentence":"4000135416701826162                         该单 核实取消了"}
+{"label":"2","label_des":"其他","sentence":"16号只查询到您中午11 50左右超出的"}
+{"label":"2","label_des":"其他","sentence":"不需要你理解辛苦   只需要你理解  原因导致我超时我很接受 "}
+{"label":"2","label_des":"其他","sentence":" 送了累死 连个心意红包都没"}
+{"label":"2","label_des":"其他","sentence":"那应该 超过百分之10吧"}
+{"label":"2","label_des":"其他","sentence":"我上一 是谁我要投诉它"}
+{"label":"2","label_des":"其他","sentence":" 具体是  呢"}
+{"label":"2","label_des":"其他","sentence":"  我实在是郁闷 等了 久不给餐 申诉也没 "}
+{"label":"2","label_des":"其他","sentence":"我订的餐超时很久 我给骑士打电 骑士一两分钟就送到 但十分钟过去了 超时的时间16分钟  我便取消订单  说明原因 商家同意退款后不让骑士 送餐  在与骑士沟通的过程中骑士有辱骂我的倾向   想要投诉骑士与商家 并补 相应的赔偿 有电话录音为证 "}
+{"label":"2","label_des":"其他","sentence":"催促骑手的呢"}

@@ -1,4 +1,4 @@
-from flask import Flask, request, json
+from flask import Flask, request, json, jsonify
 
 from my_txt_classify.myPredict import my_predict
 
@@ -19,6 +19,10 @@ def hello():
 
     s1 = request.get_json()['msg']
     print("s1:", s1)
+
+    json_str = jsonify(name="jim", age=18)
+    print(json_str)
+
     out = my_predict(s1)
     return_dict['result'] = out
     return json.dumps(return_dict, ensure_ascii=False)

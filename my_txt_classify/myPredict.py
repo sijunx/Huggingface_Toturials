@@ -2,11 +2,11 @@ import torch
 import time
 from transformers import BertTokenizer
 
-from my_txt_classify.MyDataset import MyDataset
 from my_txt_classify.MyModel import MyModel
 
 my_tokenizer = BertTokenizer.from_pretrained('bert-base-chinese')
-model_path = '/Users/zard/Documents/nlp002/Huggingface_Toturials/data/model/model02.pkl'
+# model_path = '/Users/zard/Documents/nlp002/Huggingface_Toturials/data/model/model02.pkl'
+model_path = '/Users/zard/Documents/nlp002/Huggingface_Toturials/data/model/model_my_006.pkl'
 my_model = MyModel()
 
 print("加载模型---------------------------------开始-------------")
@@ -44,3 +44,6 @@ def my_predict(s1):
     print("label:", result[0].item())
     return result[0].item()
 
+txt01 = "测试数据，喜欢吃什么，苹果吗？"
+out = my_predict(txt01)
+print(out)
